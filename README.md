@@ -1,6 +1,6 @@
 # Image Classification with Deep CNN (ResNet50) and Conventional CNN
 
-A 50 layer deep Convolutional Neural Network-ResNet50, as well as a conventionalCNN  (2  convolutional,  and  2  maxpooling  layer)  was  trained  to  classify  images  of SIGN LANGUAGE. The dataset collected from Kaggle had variations of images inbrightness, shifts, zoom, flips, backgrounds, angles and so on.  The trained model was good enough to classify our own custom images.
+Classic Convolutional Neural Network (CNN) architectures such asLeNet-5, andAlexNet,as well as a 50 layer deep CNN-ResNet50were trained from the scratchto classify images of AMERICAN SIGN LANGUAGE (ASL). The dataset collectedfrom Kaggle had variations of images in brightness, shifts, zoom, flips, backgrounds,angles and so on.  The trained model was good enough to classify our own customimages.
 
 ## Programming Platform:
 * Python

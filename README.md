@@ -7,7 +7,7 @@ Classic Convolutional Neural Network (CNN) architectures such as LeNet-5, and Al
 * Machine Learning: Keras, Tensorflow, Scikit-learn
 
 ## Results:
-All the implemented algorithms recognized the ASL letters with a validationaccuracy of more than 0.98 (>98%) for proper number of epochs.
+All the implemented algorithms recognized the ASL letters with a validation accuracy of more than 0.98 (>98%) for proper number of epochs.
 
 ## Dataset:
 https://www.kaggle.com/grassknoted/asl-alphabet
